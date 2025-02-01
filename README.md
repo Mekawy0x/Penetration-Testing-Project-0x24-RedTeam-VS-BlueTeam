@@ -68,7 +68,7 @@ Custom Scripting	Custom Python and Bash scripts for automating specific attack v
 # 5. Vulnerabilities Discovered
 The assessment identified several critical vulnerabilities, categorized by severity:
 
-5.1 Web Application Vulnerabilities
+# 5.1 Web Application Vulnerabilities
 1. Insecure Direct Object Reference (IDOR):
 
 - Location: /Students/EditStudentProfile
